@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Noid",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(30, 30, 30)",
+      "toolbar_text": "rgba(255, 255, 255, 0.87)",
+      "frame": "rgb(18, 18, 18)",
+      "tab_background_text": "rgb(224, 224, 224)",
+      "toolbar_field": "rgb(18, 18, 18)",
+      "toolbar_field_text": "rgba(255, 255, 255, 0.87)",
+      "tab_line": "rgba(248, 112, 140, 0)",
+      "popup": "rgb(46, 46, 46)",
+      "popup_text": "rgba(255, 255, 255, 0.87)",
+      "popup_border": "rgba(34, 34, 34, 0)",
+      "sidebar_border": "rgba(126, 145, 126, 0)",
+      "sidebar_text": "rgba(255, 255, 255, 0.87)",
+      "sidebar": "rgb(30, 30, 30)",
+      "toolbar_bottom_separator": "rgb(30, 30, 30)",
+      "toolbar_field_border": "rgba(146, 183, 146, 0)",
+      "toolbar_field_focus": "rgb(46, 46, 46)",
+      "toolbar_field_highlight_text": "rgba(255, 255, 255, 0.87)",
+      "toolbar_field_text_focus": "rgba(255, 255, 255, 0.87)",
+      "toolbar_top_separator": "rgba(30, 30, 30, 0)",
+      "tab_loading": "rgba(248, 112, 140, 0)",
+      "tab_selected" : "rgb(85, 85, 85)"
+    }
+  }
+}
